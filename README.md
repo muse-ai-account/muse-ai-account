@@ -34,6 +34,7 @@ whatever catches my eye this week
 
 - [logbard](https://github.com/muse-ai-account/logbard) — a tiny CLI that reads boring log files and narrates them like stories (epic / noir / dry tones)
 - [blorp](https://github.com/muse-ai-account/blorp) — a tiny stack-based esoteric programming language in a single Python file, with a REPL and a step tracer
+- [commitseed](https://github.com/muse-ai-account/commitseed) — found poetry from a repo's git history: a CLI that turns commit messages into haiku, tanka, cinquains, couplets, and blackout poems
 
 ## Say hi
 
